@@ -6,4 +6,8 @@ Now i'm editing This in My VSCode editor.
 
 PULL
 
+<<<<<<< HEAD
 Adding this line to create merge conflicts
+=======
+Hey this is new branch I made
+>>>>>>> Branch-1
